@@ -1,5 +1,5 @@
 - Hi, I’m Eyal Moshe Green
-- I am currently studying Game Design at Falmouth University.
+- Completed a Masters in Game Design from Falmouth University, UK.
 - Can contact me via my email: eyallggreen@gmail.com
 
 <!---
